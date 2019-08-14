@@ -1,0 +1,11 @@
+{
+  "name": "pidht22",
+  "version": "1.0.0",
+  "description": "Sample project for using DHT22 sensor with Raspberry Pi",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Darren Swan",
+  "license": "GNU"
+}
